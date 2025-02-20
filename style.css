@@ -27,6 +27,7 @@
 
 .cocktail {
     color: whitesmoke;
+    background-color: black;
 }
 
 .signature {
@@ -34,5 +35,17 @@
     color: aqua;
     font-weight: bold;
     font-size: 30px;
+}
+
+#pancakes-main {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#beef-main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#cocktail-main {
+    font-family: cursive;
 }
 
